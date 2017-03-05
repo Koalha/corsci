@@ -1,6 +1,6 @@
 ---
 title: Inferring species interactions from </br> temporal data
-author:  Konsta Happonen | http://github.com
+author:  Konsta Happonen </br> https://koalha.github.io/corsci/new_idea.html
 date: 2017-03-06
 output:
     ioslides_presentation:
@@ -56,7 +56,7 @@ output:
 - 2 scenarios, no missing data, half missing data
 - Missing data corresponds to events where species was absent at both times.
 
-```{r echo=FALSE, results="hide", message=FALSE, eval=FALSE}
+```{r echo=FALSE, results="hide", message=FALSE}
 ## Simulate correlated abundance changes
 set.seed(8981)
 library(tidyverse)
