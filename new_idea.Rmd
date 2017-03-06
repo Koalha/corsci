@@ -1,6 +1,6 @@
 ---
 title: Inferring species interactions from </br> temporal data
-author:  Konsta Happonen </br> https://koalha.github.io/corsci/new_idea.html
+author:  Konsta Happonen </br> https://github.com/koalha/corsci/
 date: 2017-03-06
 output:
     ioslides_presentation:
